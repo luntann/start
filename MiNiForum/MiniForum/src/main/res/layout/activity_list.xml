@@ -1,0 +1,44 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/topic_date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="2dp"
+        android:background="#FFFFFF"
+        android:textColor="#AAAAAA"
+        android:textSize="12sp" />
+
+    <TextView
+        android:layout_marginTop="5dp"
+        android:id="@+id/topic_content"
+        android:textSize="16sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="2dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="5dp"
+        android:background="#FFFFFF" />
+    
+    <TextView
+        android:id="@+id/commentTv"
+        android:layout_marginBottom="4dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="5dp"
+        android:background="#FFFFFF"
+        android:text="0 人评论"
+        android:gravity="right"
+        android:textColor="#666666"
+        android:textSize="10sp" />
+
+</LinearLayout>

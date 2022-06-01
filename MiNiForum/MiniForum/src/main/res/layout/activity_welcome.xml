@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/head"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="100dp"
+        android:background="@drawable/head02"
+        android:scaleType="fitXY" />
+
+    <TextView
+        android:id="@+id/miniF"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        android:text="@string/welcome"
+        android:textColor="#009FCC"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/comein"
+        android:layout_width="100dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="180dp"
+        android:background="#FFBB66"
+        android:text="@string/comein"
+        android:textColor="#FFFFFF"
+        android:textSize="15sp" />
+"
+
+</LinearLayout>

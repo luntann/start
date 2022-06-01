@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/MiniForum/build/
+/MiniForum/build/intermediates/javac/debug/classes/
