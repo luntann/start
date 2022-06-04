@@ -1,3 +1,42 @@
 <resources>
     <string name="app_name">MiNiForum</string>
+    <string name="action_settings">Settings</string>
+    <string name="miniF">MiniForum</string>
+    <string name="userName">账号</string>
+    <string name="QName">昵称</string>
+    <string name="t_userName">账号</string>
+    <string name="t_userPassword">密码</string>
+    <string name="userPassword">密码</string>
+    <string name="login">登&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;录</string>
+    <string name="register">注&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;册</string>
+
+    <string name="title">用户注册</string>
+    <string name="tishi01">不能为空</string>
+    <string name="tishi02">6~15位</string>
+
+    <string name="psd2">确认密码</string>
+    <string name="gender">性别</string>
+    <string name="male">男</string>
+    <string name="female">女</string>
+
+    <string name="sure">确&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;定</string>
+    <string name="cancel">取&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;消</string>
+    <string name="alter">修&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;改</string>
+
+    <string name="look">围观</string>
+    <string name="home">主页</string>
+    <string name="myself">我</string>
+    <string name="publish">发&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;贴</string>
+
+    <string name="postNumber">帖子</string>
+    <string name="fansNumber">粉丝</string>
+    <string name="focusNumber">关注</string>
+    <string name="back">返&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;回</string>
+
+    <string name="hisinfo">资料</string>
+    <string name="likeyou">加关注</string>
+    <string name="rempass">记住密码</string>
+    <string name="autologin">自动登录</string>
+    <string name="welcome">欢迎来到miniforum！</string>
+    <string name="comein">点击进入</string>
 </resources>
