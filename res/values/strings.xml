@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">git</string>
+=======
+    <string name="app_name">OtherHomeActivity</string>
+>>>>>>> c00be44 (OtherHome)
 </resources>
